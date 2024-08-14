@@ -38,7 +38,7 @@
     "dotenv": "^16.4.5",
     "fast-safe-stringify": "^2.1.1",
     "tsoa": "^6.0.1",
-    "web3-core": "1.9.0"
+    "web3-core": "4.0.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.3.2",
