@@ -56,8 +56,8 @@
     "run:liquidity-pool:trx:getLPamountOnDeposit": "ts-node src/usage/liquidity-pool/trx/get-lp-amount-on-deposit.ts"
   },
   "dependencies": {
-    "@solana/web3.js": "^1.78.5",
-    "axios": "^1.6.8",
+    "@solana/web3.js": "^1.78.8",
+    "axios": "^0.28.0",
     "big.js": "^6.2.1",
     "src": "^1.1.2",
     "tronweb": "^4.4.0",
